@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f03d4fff56abaf4e8c2db73fc2e7f45, type: 3}
+  m_Name: Str Dex Small
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 1b6036010f3672a409fd141b4d8e6d35, type: 3}
+  tooltip: '+{0} strength
+
+    +{1} dexterity'
+  values: 0800000008000000
+  index: 4
